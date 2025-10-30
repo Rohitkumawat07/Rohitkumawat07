@@ -1,6 +1,6 @@
 <!-- Modern GitHub Profile README with Project Showcase -->
 <h1 align="center">Hi 👋, I'm <span style="color:#00BFFF;">Rohit Kumar Kumawat</span></h1>
-<h3 align="center">💻 Full Stack Developer | MERN Enthusiast | Passionate Coder from India 🇮🇳</h3>
+<h3 align="center">💻 Full Stack Developer | Passionate Coder from India 🇮🇳</h3>
 
 <br/>
 
@@ -11,13 +11,16 @@
 ---
 
 ### 🚀 **About Me**
-- 🔭 I’m currently working on **UEM FaceVision: Face Detection System**
-- 🌱 Currently learning **MERN Stack & Cloud Deployment**
-- 🤝 Open to collaborate on **React & MongoDB Projects**
-- 👨‍💻 Portfolio → [**Click Here**](https://my-portfolio-ten-zeta-22.vercel.app/)
-- 💬 Ask me about **React, JavaScript, Node.js, MongoDB, SQL**
-- 📫 Reach me at **rohitkumawat7230@gmail.com**
-- ⚡ Fun fact → *“I write code that sometimes doesn’t crash 😅”*
+
+- 🎓 I’m a **Final Year B.Tech Student** passionate about **Full Stack Web Development**  
+- 💻 Skilled in **MERN Stack (MongoDB, Express.js, React, Node.js)** and modern web technologies  
+- 🌱 Exploring **Cloud Deployment** and **Scalable Web Architectures**  
+- 🤝 Open to collaborate on **Full Stack Projects**, especially **React & MongoDB** integrations  
+- 👨‍💻 Portfolio → [**Click Here**](https://my-portfolio-ten-zeta-22.vercel.app/)  
+- 💬 Ask me about **React, Node.js, MongoDB, Express, or RESTful APIs**  
+- 📫 Reach me at **rohitkumawat7230@gmail.com**  
+- ⚡ Fun fact → *“I love building real-world projects that actually solve problems!”*
+
 
 ---
 
@@ -39,16 +42,16 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://uem-facevision.vercel.app/" target="_blank">
-        <img src="https://i.ibb.co/5KDfWCB/facedetection.jpg" width="250px" alt="UEM FaceVision"/>
+     <a href="https://my-portfolio-ten-zeta-22.vercel.app/" target="_blank">
+        <img src="https://github.com/rohitkumawat07/rohitkumawat07/blob/main/portfolio.jpg?raw=true" width="400px" height="300px" alt="Weather App"/>
         <br/>
-        <b>🧠 UEM FaceVision</b>
+        <b>🌐 My Portfolio</b>
       </a>
-      <p>Face Detection System using React & Python (AI Model)</p>
+      <p>Built with React</p>
     </td>
    <td align="center">
   <a href="https://rohitkumawat07.github.io/weather-app/" target="_blank">
-    <img src="https://github.com/rohitkumawat07/rohitkumawat07/blob/main/weatherapp.jpg?raw=true" width="250px" alt="Weather App"/>
+    <img src="https://github.com/rohitkumawat07/rohitkumawat07/blob/main/weatherapp.jpg?raw=true" width="400px" height="300px" alt="Weather App"/>
     <br/>
     <b>🌦️ Weather Forecast App</b>
   </a>
