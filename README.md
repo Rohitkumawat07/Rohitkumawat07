@@ -28,7 +28,7 @@
 
 ---
 
-### 🏗️ **My Featured Projects**
+### 🏗️ **My Projects**
 
 <p align="center">
   <a href="https://my-portfolio-ten-zeta-22.vercel.app/" target="_blank">
@@ -46,14 +46,15 @@
       </a>
       <p>Face Detection System using React & Python (AI Model)</p>
     </td>
-    <td align="center">
-      <a href="https://weather-app-rohit07.vercel.app/" target="_blank">
-        <img src="https://i.ibb.co/8sZbWJs/weatherapp.jpg" width="250px" alt="Weather App"/>
-        <br/>
-        <b>🌦️ Weather Forecast App</b>
-      </a>
-      <p>Built with React + OpenWeather API</p>
-    </td>
+   <td align="center">
+  <a href="https://rohitkumawat07.github.io/weather-app/" target="_blank">
+    <img src="https://github.com/rohitkumawat07/rohitkumawat07/blob/main/weatherapp.jpg?raw=true" width="250px" alt="Weather App"/>
+    <br/>
+    <b>🌦️ Weather Forecast App</b>
+  </a>
+  <p>Built with React + OpenWeather API</p>
+</td>
+
   </tr>
   <tr>
     <td align="center">
