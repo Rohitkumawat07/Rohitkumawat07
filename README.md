@@ -33,11 +33,6 @@
 
 ### 🏗️ **My Projects**
 
-<p align="center">
-  <a href="https://my-portfolio-ten-zeta-22.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-blue?style=for-the-badge" alt="Portfolio"/>
-  </a>
-</p>
 
 <table align="center">
   <tr>
