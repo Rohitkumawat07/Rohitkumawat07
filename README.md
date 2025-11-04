@@ -64,7 +64,7 @@
       <p>Full MERN stack app with JWT Auth & Cart</p>
     </td>
     <td align="center">
-      <a href="https://github.com/rohitkumawat07/todo-react-app" target="_blank">
+      <a href="https://rohitkumawat07.github.io/Todo-Web/" target="_blank">
         <img src="https://i.ibb.co/GvpKH1P/todoapp.jpg" width="250px" alt="ToDo App"/>
         <br/>
         <b>✅ To-Do Manager</b>
