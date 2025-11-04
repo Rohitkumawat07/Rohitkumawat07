@@ -65,7 +65,7 @@
     </td>
     <td align="center">
       <a href="https://rohitkumawat07.github.io/Todo-Web/" target="_blank">
-        <img src="https://i.ibb.co/GvpKH1P/todoapp.jpg" width="250px" alt="ToDo App"/>
+         <img src="https://github.com/rohitkumawat07/rohitkumawat07/blob/main/TODO.png?raw=true" width="400px" height="300px" alt="ToDo App"/>
         <br/>
         <b>✅ To-Do Manager</b>
       </a>
